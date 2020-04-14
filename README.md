@@ -7,7 +7,7 @@
 
 ```
 <details>
- <summary>Summary Goes Here</summary>
- ...this is hidden, collapsable content...
+ <summary>Native Accordion</summary>
+  ...this is hidden, collapsable content...
 </details>
 ```
